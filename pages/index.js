@@ -1,6 +1,6 @@
 import {useState,useEffect} from "react";
 import {ethers} from "ethers";
-import crypto_making_tree_abi from "../artifacts/contracts/FUNDS_MANAGEMENT.sol/SmartContract_with_Front_end_interaction.json";
+import crypto_making_tree_abi from "../artifacts/contracts/FUNDS_MANAGEMENT.sol/ATM.json";
 
 export default function Homepage() {
 
