@@ -39,6 +39,5 @@ To connect MetaMask with the local network, follow these steps:
 
 Now you can interact with the smart contract through the front-end application using your MetaMask wallet connected to the local network.
 
----
-
-Make sure to follow the instructions carefully and have the necessary dependencies installed to run the project successfully. Happy interacting with your smart contract!
+##Authors:
+ANJALI SHARMA
